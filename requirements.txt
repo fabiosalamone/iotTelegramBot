@@ -1,0 +1,6 @@
+aiogram==2.20
+emoji==1.7.0
+paho_mqtt==1.6.1
+python_telegram_bot==13.12
+requests==2.28.0
+telegram==0.0.1
